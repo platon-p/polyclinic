@@ -2,11 +2,12 @@
 
 
 ### Оглавление
-[project.db](https://github.com/platon-p/polyclinic/blob/main/project.py)
-
 1.	Главное окно
 2.	Окно регистрации
 3.	Окно входа для пациента/врача
 4.	Личный кабинет врача
 5.	Личный кабинет пациента
- 
+
+
+
+[Главный файл](https://github.com/platon-p/polyclinic/blob/main/project.py)
