@@ -56,5 +56,5 @@
 
 Желтым подсвечиваются свои записи, темным - время, которое уже занято. При двойном клике по свободному времени открывается окно для создания записи
 
-> <img src="https://downloader.disk.yandex.ru/preview/ac24020240e9b1408aca32c2ba49f9932c234779408050bffa55dd472960aa06/5fe8e090/fgPoyeY56nnwCEVCMVtb1UAH8t26FFEOH9ICj809lRRFyDTM4lnPOt215u-WpHABvZ1bp8DstgLRfIzLVGsxoA%3D%3D?uid=0&filename=2020-12-27_19-29-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" style="height: 20%;">
+> <img src="https://downloader.disk.yandex.ru/preview/ac24020240e9b1408aca32c2ba49f9932c234779408050bffa55dd472960aa06/5fe8e090/fgPoyeY56nnwCEVCMVtb1UAH8t26FFEOH9ICj809lRRFyDTM4lnPOt215u-WpHABvZ1bp8DstgLRfIzLVGsxoA%3D%3D?uid=0&filename=2020-12-27_19-29-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" style="width: 1%;">
 
