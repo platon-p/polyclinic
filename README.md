@@ -2,14 +2,35 @@
 
 -------
 ### Оглавление
-1.	[Главное окно](#Link1)
-2.	[Окно регистрации](#Link2)
-3.	 [Окно входа для пациента/врача](#Link3)
-4.	 [Личный кабинет врача](#Link4)
-5.	 [Личный кабинет пациента](#Link5)
-
+1. [Старт](#Link0)
+2. [Главное окно](#Link1)
+3. [Окно регистрации](#Link2)
+4. [Окно входа для пациента/врача](#Link3)
+5. [Личный кабинет врача](#Link4)
+6. [Личный кабинет пациента](#Link5)
 
 -------
+
+### <a name="Link0"></a> Старт
+Для работы с приложением необходимо установить [Python 3](https://www.python.org/downloads/release/python-360/). После установки необходимо дополнительно установить модуль PyQt5 при помощи команды в консоли
+> pip install pyqt5
+
+
+Теперь можно работать с приложением. Для этого запустите файл [project.py](https://github.com/platon-p/polyclinic/blob/main/project.py)
+##### Данные для входа врачей:
+> bibbob:12345678
+> 
+> petrov-nevrolog:987654
+
+##### Данные для входа пациентов:
+> hotabuchic:qazwsX2005
+> 
+> Test:Test12345
+
+Полный список данных для входа расположен в файле project.db (таблицы auth_patients и auth_doctors)
+
+-----
+
 ### <a name="Link1"></a> Главное окно
 Главное окно имеет следующий вид. 
 Главное окно содержит кнопки “Зарегистрироваться”, “Войти как пациент”, “Войти как врач”, которые предназначены для определения дальнейших действий
@@ -56,5 +77,6 @@
 
 Желтым подсвечиваются свои записи, темным - время, которое уже занято. При двойном клике по свободному времени открывается окно для создания записи
 
-> <img src="https://downloader.disk.yandex.ru/preview/ac24020240e9b1408aca32c2ba49f9932c234779408050bffa55dd472960aa06/5fe8e090/fgPoyeY56nnwCEVCMVtb1UAH8t26FFEOH9ICj809lRRFyDTM4lnPOt215u-WpHABvZ1bp8DstgLRfIzLVGsxoA%3D%3D?uid=0&filename=2020-12-27_19-29-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" style="width: 1%;">
+> <img src="https://downloader.disk.yandex.ru/preview/ac24020240e9b1408aca32c2ba49f9932c234779408050bffa55dd472960aa06/5fe8e090/fgPoyeY56nnwCEVCMVtb1UAH8t26FFEOH9ICj809lRRFyDTM4lnPOt215u-WpHABvZ1bp8DstgLRfIzLVGsxoA%3D%3D?uid=0&filename=2020-12-27_19-29-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048">
+
 
