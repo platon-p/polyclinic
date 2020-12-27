@@ -8,7 +8,7 @@
 4. [Окно входа для пациента/врача](#Link3)
 5. [Личный кабинет врача](#Link4)
 6. [Личный кабинет пациента](#Link5)
-
+7. [О разработчиках](#Link6)
 -------
 
 ### <a name="Link0"></a> Старт
@@ -79,4 +79,10 @@
 
 > <img src="https://downloader.disk.yandex.ru/preview/ac24020240e9b1408aca32c2ba49f9932c234779408050bffa55dd472960aa06/5fe8e090/fgPoyeY56nnwCEVCMVtb1UAH8t26FFEOH9ICj809lRRFyDTM4lnPOt215u-WpHABvZ1bp8DstgLRfIzLVGsxoA%3D%3D?uid=0&filename=2020-12-27_19-29-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048">
 
+-------
 
+##### <a name="Link6"></a> 7. О разработчиках
+Проект разработали:
+
+[Багров Владимир](https://github.com/Hotabuchic) и
+[Печенев Платон](https://github.com/platon-p)
