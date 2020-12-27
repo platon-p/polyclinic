@@ -2,7 +2,7 @@
 
 
 ### Оглавление
-
+[project.db](https://github.com/platon-p/polyclinic/blob/main/project.py)
 
 1.	Главное окно
 2.	Окно регистрации
